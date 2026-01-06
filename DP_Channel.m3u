@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="dp" tvg-name="DP Channel" group-title="Live TV",DP Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stream.mslivebox.com/iptv/dp.m3u8
