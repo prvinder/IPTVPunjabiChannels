@@ -1,4 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dp" tvg-name="DP Channel" group-title="Live TV",DP Channel
+#EXTINF:-1 tvg-id="dp" tvg-name="Daily Post News" group-title="Punjabi",Daily Post News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stream.mslivebox.com/iptv/dp.m3u8
+
+#EXTINF:-1 tvg-id="MH1" tvg-name="MH 1 News" group-title="Punjabi",MH 1 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livestream.jswk.online/mhonenews/live/index.m3u8
