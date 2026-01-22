@@ -6,3 +6,7 @@ https://stream.mslivebox.com/iptv/dp.m3u8
 #EXTINF:-1 tvg-id="MH1" tvg-name="MH 1 News" group-title="Punjabi",MH 1 News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livestream.jswk.online/mhonenews/live/index.m3u8
+
+#EXTINF:-1 tvg-id="IndoOZ" tvg-name="Indo OZ Australia" group-title="Punjabi",Indo OZ Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://cdn2.in/IndozeTvhls/live.m3u8
