@@ -11,6 +11,6 @@ https://livestream.jswk.online/mhonenews/live/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn2.in/IndozeTvhls/live.m3u8
 
-#EXTINF:-1 tvg-id="PTCSIMRAN" tvg-name="PTC Simran" group-title="Punjabi",PTC Simran
+#EXTINF:-1 tvg-id="PTCSIMRANFREE" tvg-name="PTC Simran Free" group-title="Punjabi",PTC Simran Free
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://mumt05.tangotv.in/PTCSIMRAN/index.m3u8
