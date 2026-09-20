@@ -22,3 +22,8 @@ https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
 #EXTINF:-1 tvg-id="PITAARACOMEDY" tvg-name="PITAARA COMEDY" group-title="Punjabi",PITAARA COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/bed462f0-000e-4281-8b87-19ac4091e7d0/2.m3u8
+
+#EXTINF:-1 tvg-id="WAHPUNJABI" tvg-name="WAH PUNJABI" group-title="Punjabi",WAH PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/hdntl=exp=1789959918~acl=%2f*~data=hdntl~hmac=ab3a8a672d6acb5221e708a5acd6eff5488606f8ea475b917ed3e3cde2d1f436/chunklist_b864000.m3u8
+
